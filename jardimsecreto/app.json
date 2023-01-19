@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "jardimsecreto",
+    "slug": "jardimsecreto",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1f435798-af13-4bc4-a168-48e045b3cc67"
+      }
+    }
+  }
+}
